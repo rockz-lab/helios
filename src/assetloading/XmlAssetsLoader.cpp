@@ -33,6 +33,7 @@ namespace fs = boost::filesystem;
 #include "FullWaveformPulseDetector.h"
 #include "OscillatingMirrorBeamDeflector.h"
 #include "PolygonMirrorBeamDeflector.h"
+#include "SinusoidalOscillatingBeamDeflector"
 
 #include "XmlAssetsLoader.h"
 #include <NormalNoiseSource.h>
